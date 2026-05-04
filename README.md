@@ -3,7 +3,7 @@ Formats and aggregates missed alert charting days report into a visually intuiti
 Processes locally on your machine. No data is shared outside of your local environment.
 
 ## Download
-[**Click here to download the latest version**](https://github.com/northbridgecos/missed-alert-charting-formatting-tool/archive/refs/tags/v1.0.0.zip)
+[**Click here to download the latest version**](https://github.com/northbridgecos/missed-alert-charting-formatting-tool/releases/download/v1.0.0/MissedAlertChartingFormattingTool.zip)
 
 ### Preview
 ![App](/assets/app.png)
