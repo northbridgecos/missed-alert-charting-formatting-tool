@@ -48,3 +48,6 @@ or
 ## Architecture
 * `main.py`: Handles the Tkinter GUI logic, file dialogs, and user interactions.
 * `process.py`: Contains the processing logic. Reads the Yardi report, cleans the data, and formats the Excel output.
+
+## Package exe
+`pyinstaller --noconfirm --onefile --windowed --name "MissedAlertChartingFormattingTool" src/main.py`
