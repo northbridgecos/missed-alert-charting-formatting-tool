@@ -34,15 +34,15 @@ Processes locally on your machine. No data is shared outside of your local envir
 
 ## Developers
 1. Make sure Python is installed
-2. Clone the repository
-`git clone `
-3. Navigate to the folder
-`cd `
-4. Install necessary libraries
+2. Clone the repository  
+`git clone https://github.com/northbridgecos/missed-alert-charting-formatting-tool.git`
+3. Navigate to the folder  
+`cd missed-alert-charting-formatting-tool`
+4. Install necessary libraries  
 `pip install pandas openpyxl`
 or
 `pip install -r requirements.txt`
-5. Run the application
+5. Run the application  
 `python main.py`
 
 ## Architecture
