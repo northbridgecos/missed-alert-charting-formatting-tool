@@ -46,7 +46,7 @@ Processes locally on your machine. No data is shared outside of your local envir
 or
 `pip install -r requirements.txt`
 5. Run the application  
-`python main.py`
+`python src/main.py`
 
 ## Architecture
 * `main.py`: Handles the Tkinter GUI logic, file dialogs, and user interactions.
